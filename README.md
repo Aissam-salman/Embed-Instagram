@@ -1,5 +1,5 @@
-# Embed-Instagram-
-Embed instagram easy 
+# Embed-Instagram
+Embed instagram profil easily
 
 1: Copy the HTML code (click ``raw`` and ``ctrl+a``) <br>
 2: Paste in your editor code <br>
